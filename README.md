@@ -1,6 +1,6 @@
 # I'm Bianca Favero
 
-- 🔭 I’m currently studying Analysis and systems development at UNICID
+- 🔭 I currently study computer science at the federal university of ABC
 - 💻 I’m currently learning to be a back-end developer
 - 🦊 I love foxes and movies
 
