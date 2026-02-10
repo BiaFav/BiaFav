@@ -28,13 +28,10 @@ Meu foco é unir a base sólida de lógica de programação com a inovação da 
 
 ### 🚀 Projetos em Destaque
 
-**🤖 [Nome do seu Projeto de IA/Vibe Coding]**
-*Exploração de automação e geração de interfaces utilizando Engenharia de Prompt.*
-> **Tech:** Python, LLMs.
-
-**💻 [Nome do seu TCC da ETEC]**
-*Sistema de gerenciamento desenvolvido durante o curso técnico.*
-> **Tech:** PHP, MySQL, HTML/CSS.
+**🎓 Plataforma de Capacitação para MEIs (TCC)**
+*Plataforma de ensino voltada para microempreendedores, oferecendo aulas e ferramentas sobre gestão de negócios.*
+> **Meu papel:** Liderei o Design da interface (UI) e a estilização completa (CSS), garantindo uma experiência intuitiva para o usuário.
+> **Tech:** PHP, HTML, CSS, MySQL.
 
 ---
 
